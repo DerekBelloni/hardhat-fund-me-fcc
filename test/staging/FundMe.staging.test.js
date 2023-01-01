@@ -29,3 +29,4 @@ developmentChains.includes(network.name)
               assert.equal(endingFundMeBalance.toString(), "0")
           })
       })
+

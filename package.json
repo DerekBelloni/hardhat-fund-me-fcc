@@ -1,5 +1,7 @@
 {
   "name": "hardhat-fund-me-fcc",
+  "author": "Derek Belloni",
+  "version": "1.0.0",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "npm:hardhat-deploy-ethers@^0.3.0-beta.13",
     "@nomiclabs/hardhat-etherscan": "^3.0.0",
